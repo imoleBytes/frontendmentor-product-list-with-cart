@@ -23,10 +23,10 @@ const CartItem = () => {
     return (
         <div className="cart-item">
             <div>
-                <h4>Classic Tiramisu</h4>
+                <h5>Classic Tiramisu</h5>
                 <p>
                     <span className="cart-item-quanity"> 1x</span>
-                    <span className="cart-item-price"> $5.50</span>
+                    <span className="cart-item-price"> @ $5.50</span>
                     <span className="cart-item-amount"> $5.50</span>
                 </p>
             </div>
